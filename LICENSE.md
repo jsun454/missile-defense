@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Xinyi Zhang, Brian Qiu, Jeffery Sun, Parth Atre, Alexander Lancaster
+Copyright (c) 2020 Xinyi Zhang, Brian Qiu, Jeffrey Sun, Parth Atre, Alexander Lancaster
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
